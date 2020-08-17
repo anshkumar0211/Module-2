@@ -1,0 +1,3 @@
+# Module-2
+Project Repo for Haar Cascade based Cloning
+#NOTE: THIS OPERATION REQUIRES GPU SUPPORT FOR VECTOR OPERATIONS 
